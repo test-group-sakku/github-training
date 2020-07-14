@@ -7,4 +7,8 @@ github-team-developpment
 ブランチ作成
 >>>>>>> Stashed changes
 
+<<<<<<< HEAD
 テスト
+=======
+branch2作成　今度は成功するか
+>>>>>>> branch2
