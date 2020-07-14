@@ -1,3 +1,15 @@
 github-team-developpment
+<<<<<<< HEAD
 
 一行新規追加
+=======
+<<<<<<< Updated upstream
+=======
+
+一行新規追加
+
+ブランチ作成
+>>>>>>> Stashed changes
+
+branch2作成　今度は成功するか
+>>>>>>> branch2
