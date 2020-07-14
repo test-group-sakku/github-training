@@ -6,3 +6,5 @@ github-team-developpment
 
 ブランチ作成
 >>>>>>> Stashed changes
+
+branch2作成　今度は成功するか
